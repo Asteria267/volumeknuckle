@@ -1,4 +1,4 @@
-# 🐋 VolumeKnuckle — Day 3, Soo hi chiggaaa😛
+# 🐋 VolumeKnuckle — Day 3,
 ### Hand Tracking & Coordinate Mapping
 
 **The Challenge:** Control system volume using a vertical fist gesture.
